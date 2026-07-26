@@ -19,8 +19,8 @@ import re
 from datetime import datetime, timedelta
 
 # ============================== تنظیمات ==============================
-BOT_TOKEN = "P"
-MAIN_ADMIN_ID =   # آیدی عددی ادمین اصلی رو اینجا بزار
+BOT_TOKEN = "8658314282:AAGcVifNujg4R2XdIbhWZRiwyufKyHwmg1s"
+MAIN_ADMIN_ID = 7837042019  # آیدی عددی ادمین اصلی رو اینجا بزار
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 
